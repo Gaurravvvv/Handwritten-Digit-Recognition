@@ -29,7 +29,7 @@ Matplotlib
 ⚙️ Setup Instructions
 
 Clone this repository
-git clone https://github.com/your-username/handwritten-digit-recognition.git
+git clone https://github.com/Gaurravvvv/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
 
 Install dependencies
